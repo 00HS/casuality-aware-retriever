@@ -17,16 +17,16 @@ def set_seed(seed):
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Causal Retrieval Model Training")
-    parser.add_argument("--config_path", type=str, default="config.yaml", help="Path to the configuration file")
-    parser.add_argument("--model_name", type=str, default = 'bert-base-cased', help="Name of the model to use")
-    parser.add_argument("--model_run_name", type=str, default = 'cawai_dpr', help="Name of the model run for logging")
-    parser.add_argument("--wandb_project", type=str, default="Causal Retrieval", help="WandB project name")
-    parser.add_argument("--epochs", type=int, default=500, help="Number of training epochs")
-    parser.add_argument("--learning_rate", type=float, default=1e-5, help="Learning rate for the optimizer")
-    parser.add_argument("--random_seed", type=int, default=42, help="Random seed for reproducibility")
+    parser.add_argument("--config_path", type=str, default="config.yaml")
+    parser.add_argument("--model_name", type=str, default = 'bert-base-cased')
+    parser.add_argument("--model_run_name", type=str, default = 'cawai_dpr')
+    parser.add_argument("--wandb_project", type=str, default="Causal Retrieval")
+    parser.add_argument("--epochs", type=int, default=500)
+    parser.add_argument("--learning_rate", type=float, default=1e-5)
+    parser.add_argument("--random_seed", type=int, default=42)
     return parser.parse_args()
 
-def load_config(config_file='../config/config.yaml'):
+def load_config(config_file='config.yaml'):
     with open(config_file, 'r') as f:
         return yaml.safe_load(f)
 
@@ -49,11 +49,12 @@ def load_checkpoint(model, optimizer, checkpoint_path):
         model.cause_encoder.load_state_dict(checkpoint['model_state_dict']['cause_encoder'])
         model.effect_encoder.load_state_dict(checkpoint['model_state_dict']['effect_encoder'])
         model.semantic_encoder.load_state_dict(checkpoint['model_state_dict']['semantic_encoder'])
-        optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
+        if optimizer is not None:
+            optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
         print(f"Checkpoint loaded from {checkpoint_path} at epoch {checkpoint['epoch'] + 1}")
         return checkpoint['epoch'] + 1
     else:
-        print(f"No checkpoint found at {checkpoint_path}. Training from scratch.")
+        print(f"No checkpoint found at {checkpoint_path}.")
         return 0
 
 def load_jsonl(file_path):

@@ -4,6 +4,7 @@ import json
 import numpy as np
 from tqdm.auto import tqdm
 
+import faiss
 import torch
 from transformers import BertTokenizer
 
@@ -105,7 +106,7 @@ def main():
 
     model_run_name = args.model_run_name
 
-    test_data = load_jsonl('../dataset/e_care/test.jsonl')
+    test_data = load_jsonl('dataset/e_care/test.jsonl')
     causes = [item['cause'] for item in test_data]
     effects = [item['effect'] for item in test_data]
 
@@ -117,13 +118,13 @@ def main():
     #cause_red_xl = json.load(open('../dataset/redpajama/cause_red_xl.json'))
     #effect_red_xl = json.load(open('../dataset/redpajama/effect_red_xl.json'))
 
-    tokenizer = BertTokenizer.from_pretrained(args.model_name)
-
     # Load model
     if model_run_name == 'cawai_dpr':
-        from retrieval.cawai.model.cawai_dpr.model import Encoder, CausalEncoder
+        from model.cawai_dpr.model import Encoder, CausalEncoder
+        tokenizer = BertTokenizer.from_pretrained(args.model_name)
     else:
-        from retrieval.cawai.model.cawai_gtr.model import Encoder, CausalEncoder
+        from model.cawai_gtr.model import Encoder, CausalEncoder
+        tokenizer = None
 
     cause_encoder = Encoder(args.model_name, device)
     effect_encoder = Encoder(args.model_name, device)
@@ -131,7 +132,7 @@ def main():
     model = CausalEncoder(cause_encoder, effect_encoder, semantic_encoder, device).to(device)
 
     checkpoint = f'checkpoint/{model_run_name}.pth'
-    load_checkpoint(model, checkpoint)
+    load_checkpoint(model, optimizer=None, checkpoint_path=checkpoint)
     model.eval()
 
     # Save corpus embeddings
