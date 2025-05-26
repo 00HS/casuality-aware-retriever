@@ -1,0 +1,900 @@
+{"cause": "It was fragile.", "effect": "The item was packaged in bubble wrap."}
+{"cause": "The item was packaged in bubble wrap.", "effect": "It arrived at its destination intact."}
+{"cause": "I lost my keys.", "effect": "I emptied my pockets."}
+{"cause": "I emptied my pockets.", "effect": "I retrieved a ticket stub."}
+{"cause": "The house was made of wood.", "effect": "Termites invaded the house."}
+{"cause": "Termites invaded the house.", "effect": "The termites ate through the wood in the house."}
+{"cause": "They wanted to travel abroad.", "effect": "The travelers reached the border."}
+{"cause": "The travelers reached the border.", "effect": "The patrol agent checked their passports."}
+{"cause": "It was a holiday.", "effect": "The office was closed."}
+{"cause": "The office was closed.", "effect": "I came again the next day."}
+{"cause": "She jumped rope.", "effect": "The girl ran out of energy."}
+{"cause": "The girl ran out of energy.", "effect": "She lay on the ground."}
+{"cause": "She stepped out of the line.", "effect": "The woman lost her place in line."}
+{"cause": "The woman lost her place in line.", "effect": "She went to the end of the line."}
+{"cause": "The baby soiled her diaper.", "effect": "The girl pinched her nose."}
+{"cause": "The girl pinched her nose.", "effect": "Her nose turned red."}
+{"cause": "They participated in a singing contest.", "effect": "The band played their hit song."}
+{"cause": "The band played their hit song.", "effect": "The audience clapped along to the music."}
+{"cause": "Her teacher helped her a lot.", "effect": "The girl wanted to thank her math teacher."}
+{"cause": "The girl wanted to thank her math teacher.", "effect": "The girl brought the teacher an apple."}
+{"cause": "Their camp counselor told them a ghost story.", "effect": "The young campers felt scared."}
+{"cause": "The young campers felt scared.", "effect": "They clung together in terror."}
+{"cause": "He made a stupid mistake.", "effect": "The man hit his head."}
+{"cause": "The man hit his head.", "effect": "He got a concussion."}
+{"cause": "My bank account was empty.", "effect": "The check I wrote bounced."}
+{"cause": "The check I wrote bounced.", "effect": "I paid cash finally."}
+{"cause": "His email address was leaked.", "effect": "The man's email inbox was full of spam."}
+{"cause": "The man's email inbox was full of spam.", "effect": "He deleted the spam."}
+{"cause": "He was exposed to the disease.", "effect": "The sailor was quarantined."}
+{"cause": "The sailor was quarantined.", "effect": "His friend was worried about him."}
+{"cause": "She recited it to herself.", "effect": "The girl memorized the code."}
+{"cause": "The girl memorized the code.", "effect": "She opened her strongbox."}
+{"cause": "I was thirsty after exercises.", "effect": "I poured the water into the glass."}
+{"cause": "I poured the water into the glass.", "effect": "The glass became full."}
+{"cause": "He was thinking about his friend's words.", "effect": "The man remained silent when his friend finishing speaking."}
+{"cause": "The man remained silent when his friend finishing speaking.", "effect": "The atmosphere was a little awkward."}
+{"cause": "I was absent-minded.", "effect": "The accident was my fault."}
+{"cause": "The accident was my fault.", "effect": "I felt guilty."}
+{"cause": "There was a broken link in the chain.", "effect": "The chain came apart."}
+{"cause": "The chain came apart.", "effect": "He mended his bike."}
+{"cause": "They grew tired of arguing.", "effect": "The couple decided to compromise."}
+{"cause": "The couple decided to compromise.", "effect": "They made up soon after."}
+{"cause": "She wanted to serve the people.", "effect": "The woman decided to run for public office."}
+{"cause": "The woman decided to run for public office.", "effect": "She hired a campaign manager."}
+{"cause": "It snowed in many places yesterday.", "effect": "The man anticipated cold weather on his trip."}
+{"cause": "The man anticipated cold weather on his trip.", "effect": "He packed warm clothing in his suitcase."}
+{"cause": "He studied very well.", "effect": "The student knew the answer to the question."}
+{"cause": "The student knew the answer to the question.", "effect": "He raised his hand."}
+{"cause": "Dust got into his eyes.", "effect": "The man's eyes watered."}
+{"cause": "The man's eyes watered.", "effect": "Someone came to comfort him."}
+{"cause": "He trained very hard.", "effect": "The player won five games in a row."}
+{"cause": "The player won five games in a row.", "effect": "Her opponent accused her of cheating."}
+{"cause": "He caught the student cheating.", "effect": "The teacher tore up the student's exam."}
+{"cause": "The teacher tore up the student's exam.", "effect": "The student failed in the exam."}
+{"cause": "I ran out of breath.", "effect": "I paused to stop talking."}
+{"cause": "I paused to stop talking.", "effect": "The room was quiet."}
+{"cause": "I put it in the microwave.", "effect": "The frozen food thawed."}
+{"cause": "The frozen food thawed.", "effect": "We cooked the food for dinner."}
+{"cause": "He wanted a day off.", "effect": "The employee faked sick."}
+{"cause": "The employee faked sick.", "effect": "The boss deducted his salary."}
+{"cause": "She jumped off the diving board.", "effect": "The girl landed in the pool."}
+{"cause": "The girl landed in the pool.", "effect": "She splashed water around a lot."}
+{"cause": "It was opening day for the movie.", "effect": "The movie tickets sold out."}
+{"cause": "The movie tickets sold out.", "effect": "He changed the plan."}
+{"cause": "He was on a diet.", "effect": "The man lost weight."}
+{"cause": "The man lost weight.", "effect": "People complimented him."}
+{"cause": "She climbed up a rope.", "effect": "The girl's hands became blistered."}
+{"cause": "The girl's hands became blistered.", "effect": "She went to the clinic."}
+{"cause": "He wanted to perform his own stunts.", "effect": "The circus performer juggled while riding a unicycle."}
+{"cause": "The circus performer juggled while riding a unicycle.", "effect": "The audience cheered in astonishment."}
+{"cause": "My friend kept me waiting.", "effect": "I lost my patience."}
+{"cause": "I lost my patience.", "effect": "I stopped waiting for him."}
+{"cause": "Many people died.", "effect": "The warring countries wanted peace."}
+{"cause": "The warring countries wanted peace.", "effect": "They negotiated a treaty."}
+{"cause": "He suffered from insomnia.", "effect": "The man took sleeping medication."}
+{"cause": "The man took sleeping medication.", "effect": "He became drowsy."}
+{"cause": "She groped in the dark.", "effect": "The woman bumped into the sofa."}
+{"cause": "The woman bumped into the sofa.", "effect": "She bruised her knee."}
+{"cause": "He wanted to play a trick.", "effect": "The boy squeezed the balloon."}
+{"cause": "The boy squeezed the balloon.", "effect": "The balloon popped."}
+{"cause": "They just arrived in the city.", "effect": "They travelers checked into their hotel room."}
+{"cause": "They travelers checked into their hotel room.", "effect": "They unpacked their suitcases."}
+{"cause": "I was hungry.", "effect": "I bit into the peach."}
+{"cause": "I bit into the peach.", "effect": "Juice spilled out."}
+{"cause": "I ate a doughnut.", "effect": "My hands became sticky."}
+{"cause": "My hands became sticky.", "effect": "I washed hands."}
+{"cause": "I heard someone calling for help there.", "effect": "I pushed the door."}
+{"cause": "I pushed the door.", "effect": "The door opened."}
+{"cause": "The products were manufactured through child labor.", "effect": "Activists boycotted the products."}
+{"cause": "Activists boycotted the products.", "effect": "The sales of products dropped."}
+{"cause": "I wanted to hang a picture.", "effect": "I drilled a hole in the wall."}
+{"cause": "I drilled a hole in the wall.", "effect": "Dust blew out of the hole."}
+{"cause": "Her sister was happy.", "effect": "The woman felt envious of her sister."}
+{"cause": "The woman felt envious of her sister.", "effect": "She refused her sister's invitation."}
+{"cause": "He ran into me by accident.", "effect": "I spilled wine on my shirt."}
+{"cause": "I spilled wine on my shirt.", "effect": "I changed my shirt."}
+{"cause": "The customer handed her money.", "effect": "The cashier opened the cash register."}
+{"cause": "The cashier opened the cash register.", "effect": "She took out the change."}
+{"cause": "He performed perfectly.", "effect": "The street musician attracted a crowd."}
+{"cause": "The street musician attracted a crowd.", "effect": "People gave him change."}
+{"cause": "He missed his parents.", "effect": "The little boy cried to his babysitter."}
+{"cause": "The little boy cried to his babysitter.", "effect": "She pacified him with a bottle."}
+{"cause": "A violent storm broke out in the distance.", "effect": "The pilot's radar detected a storm."}
+{"cause": "The pilot's radar detected a storm.", "effect": "The pilot navigated away from the storm."}
+{"cause": "It was late autumn.", "effect": "The tree shed its leaves."}
+{"cause": "The tree shed its leaves.", "effect": "The leaves accumulated on the ground."}
+{"cause": "He wore scary halloween costumes inspired by horror films.", "effect": "The boy was in a mischievous mood."}
+{"cause": "The boy was in a mischievous mood.", "effect": "He decided to play a practical joke on his sister."}
+{"cause": "He drank a lot of orange juice.", "effect": "The child complained that he had to go to the bathroom."}
+{"cause": "The child complained that he had to go to the bathroom.", "effect": "His father stopped the car at a gas station."}
+{"cause": "He realized the fish was starving.", "effect": "The child sprinkled fish food into the tank."}
+{"cause": "The child sprinkled fish food into the tank.", "effect": "The fish swam towards the food."}
+{"cause": "She was convinced by a political book.", "effect": "The woman's political views changed."}
+{"cause": "The woman's political views changed.", "effect": "She switched her party affiliation."}
+{"cause": "The sink was blocked by trash.", "effect": "The bathroom sink was clogged."}
+{"cause": "The bathroom sink was clogged.", "effect": "I poured drain cleaner into it."}
+{"cause": "The train arrived at the station.", "effect": "The passengers got off the train."}
+{"cause": "The passengers got off the train.", "effect": "The carriage was empty."}
+{"cause": "He used glue to seal it.", "effect": "The man pressed down on the moist flap of the envelope."}
+{"cause": "The man pressed down on the moist flap of the envelope.", "effect": "He sealed the envelope shut."}
+{"cause": "They moved to different cities.", "effect": "The friends lost touch."}
+{"cause": "The friends lost touch.", "effect": "Their relationship became increasingly attenuated."}
+{"cause": "He was slack in his work.", "effect": "The accountant mismanaged the company's funds."}
+{"cause": "The accountant mismanaged the company's funds.", "effect": "She was fired from her position."}
+{"cause": "I wanted to check the time.", "effect": "I looked at the clock."}
+{"cause": "I looked at the clock.", "effect": "I realized I was late."}
+{"cause": "I wrote the essay by hand.", "effect": "My hand cramped up."}
+{"cause": "My hand cramped up.", "effect": "I took a rest."}
+{"cause": "I twisted the wrench.", "effect": "The bolt tightened."}
+{"cause": "The bolt tightened.", "effect": "The chair became stable."}
+{"cause": "They rented an apartment.", "effect": "The couple signed a lease for an apartment."}
+{"cause": "The couple signed a lease for an apartment.", "effect": "The couple moved into the apartment."}
+{"cause": "She wanted to watch the sunset.", "effect": "The woman sat outside on the porch."}
+{"cause": "The woman sat outside on the porch.", "effect": "She was amazed by the beautiful sunset."}
+{"cause": "He couldn't swim.", "effect": "The man wore a lifejacket in the water."}
+{"cause": "The man wore a lifejacket in the water.", "effect": "He survived in that boating incident."}
+{"cause": "She was distracted.", "effect": "The woman made a typo in the word processor."}
+{"cause": "The woman made a typo in the word processor.", "effect": "She hit the backspace key."}
+{"cause": "She won a contest.", "effect": "The girl bragged to her friends."}
+{"cause": "The girl bragged to her friends.", "effect": "They doubted what she said."}
+{"cause": "It poured overnight.", "effect": "The lawn was muddy."}
+{"cause": "The lawn was muddy.", "effect": "My shoes went dirty."}
+{"cause": "She forgot to set her alarm clock.", "effect": "The woman overslept."}
+{"cause": "The woman overslept.", "effect": "She was late for work again."}
+{"cause": "He went to the beach.", "effect": "The man put on sunscreen."}
+{"cause": "The man put on sunscreen.", "effect": "He didn't get sunburn."}
+{"cause": "They conducted thousands of experiments.", "effect": "The researchers proved the theory."}
+{"cause": "The researchers proved the theory.", "effect": "Individuals accepted the theory."}
+{"cause": "The referee made a bad call.", "effect": "The fans at the game booed."}
+{"cause": "The fans at the game booed.", "effect": "They left the stadium in anger."}
+{"cause": "I wanted to wear my favorite jewelry.", "effect": "I entered my combination on the lock."}
+{"cause": "I entered my combination on the lock.", "effect": "The lock popped open."}
+{"cause": "There was an accident on the road.", "effect": "The crowd intensified."}
+{"cause": "The crowd intensified.", "effect": "The father grabbed his son's hand."}
+{"cause": "It snowed all night.", "effect": "The snow was blocking the driveway."}
+{"cause": "The snow was blocking the driveway.", "effect": "I shoveled the snow out of the way."}
+{"cause": "They heard the start signal from the referee.", "effect": "The kayakers paddled their oars."}
+{"cause": "The kayakers paddled their oars.", "effect": "The kayak reached the shore."}
+{"cause": "The brake of her bicycle broke.", "effect": "The girl lost control of her bike."}
+{"cause": "The girl lost control of her bike.", "effect": "She crashed into a fence."}
+{"cause": "It was hot in the room.", "effect": "I turned on the fan."}
+{"cause": "I turned on the fan.", "effect": "I felt cool air pass over me."}
+{"cause": "They saw a shark.", "effect": "The surfers returned to the beach."}
+{"cause": "The surfers returned to the beach.", "effect": "The beach became crowded."}
+{"cause": "The bathtub was full of water.", "effect": "I pulled the drain plug in the bathtub."}
+{"cause": "I pulled the drain plug in the bathtub.", "effect": "The water drained out of the tub."}
+{"cause": "He thought of his wedding vows for her.", "effect": "The husband felt guilty about cheating on his wife."}
+{"cause": "The husband felt guilty about cheating on his wife.", "effect": "He confessed his infidelity to her."}
+{"cause": "I spilled water on the poster.", "effect": "The ink on the poster smeared."}
+{"cause": "The ink on the poster smeared.", "effect": "The content was blurred."}
+{"cause": "He had a nightmare.", "effect": "The child woke up screaming."}
+{"cause": "The child woke up screaming.", "effect": "His mother went to comfort him."}
+{"cause": "He wanted to relax himself.", "effect": "The boy put his feet up on the table."}
+{"cause": "The boy put his feet up on the table.", "effect": "His father lectured him."}
+{"cause": "I shouted his name.", "effect": "My friend turned his head in my direction."}
+{"cause": "My friend turned his head in my direction.", "effect": "We started chatting."}
+{"cause": "The government became corrupt.", "effect": "The government oppressed its citizens."}
+{"cause": "The government oppressed its citizens.", "effect": "The citizens staged a revolt."}
+{"cause": "He didn't follow his parent closely.", "effect": "The boy was lost in the woods."}
+{"cause": "The boy was lost in the woods.", "effect": "He screamed for help."}
+{"cause": "She wanted to learn about other cultures.", "effect": "The woman travelled abroad."}
+{"cause": "The woman travelled abroad.", "effect": "She broadened her horizons."}
+{"cause": "His coworker got a promotion.", "effect": "The man was jealous of his coworker."}
+{"cause": "The man was jealous of his coworker.", "effect": "He badmouthed his colleagues."}
+{"cause": "He was hallucinating.", "effect": "The man witnessed aliens."}
+{"cause": "The man witnessed aliens.", "effect": "He was stunned."}
+{"cause": "He put bleach in it.", "effect": "The man's hair turned blonde."}
+{"cause": "The man's hair turned blonde.", "effect": "He became more confident."}
+{"cause": "She felt a stroke of inspiration.", "effect": "The artist created new work."}
+{"cause": "The artist created new work.", "effect": "More people were impressed by his artistic talent."}
+{"cause": "He was going to college.", "effect": "The son moved away from home."}
+{"cause": "The son moved away from home.", "effect": "His parents missed him very much."}
+{"cause": "An earthquake shook the bookcase.", "effect": "Books fell out of the bookcase."}
+{"cause": "Books fell out of the bookcase.", "effect": "They were scattered on the floor."}
+{"cause": "The fuse blew.", "effect": "The electricity in my house shut off."}
+{"cause": "The electricity in my house shut off.", "effect": "I reset the circuit breaker."}
+{"cause": "It looked fun.", "effect": "We rode the roller coaster."}
+{"cause": "We rode the roller coaster.", "effect": "We got very excited."}
+{"cause": "I heated it in the microwave.", "effect": "The bag of popcorn began to pop."}
+{"cause": "The bag of popcorn began to pop.", "effect": "I smelt captivating scent."}
+{"cause": "The tornado knocked down the tree.", "effect": "A tree fell on the power line."}
+{"cause": "A tree fell on the power line.", "effect": "The electricity in the neighborhood went out."}
+{"cause": "He wanted to attract attentions.", "effect": "The speaker made politically incorrect comments."}
+{"cause": "The speaker made politically incorrect comments.", "effect": "He offended the audience."}
+{"cause": "I was talking with someone while wearing the pin.", "effect": "I pricked myself with the pin."}
+{"cause": "I pricked myself with the pin.", "effect": "A drop of blood formed on my finger."}
+{"cause": "It was dead.", "effect": "The fish floated on the surface of the tank."}
+{"cause": "The fish floated on the surface of the tank.", "effect": "A child caught it."}
+{"cause": "He had a cold.", "effect": "The man's voice sounded hoarse."}
+{"cause": "The man's voice sounded hoarse.", "effect": "He took some medicines."}
+{"cause": "The elevator arrived at the designated floor.", "effect": "The elevator doors opened."}
+{"cause": "The elevator doors opened.", "effect": "People took the elevator to upper stairs."}
+{"cause": "His parents grounded him.", "effect": "The teenager snuck out of the house."}
+{"cause": "The teenager snuck out of the house.", "effect": "He was punished after coming back."}
+{"cause": "The toilet overflowed.", "effect": "The bathroom flooded."}
+{"cause": "The bathroom flooded.", "effect": "I phoned the plumber."}
+{"cause": "The owner kept the puppy on a leash.", "effect": "The puppy stayed near its owner."}
+{"cause": "The puppy stayed near its owner.", "effect": "The puppy got affection and treats from people."}
+{"cause": "He stood over the calm lake.", "effect": "The man caught his reflection."}
+{"cause": "The man caught his reflection.", "effect": "He smiled at himself in the mirror."}
+{"cause": "My phone was in silent mode.", "effect": "I missed my girlfriend's phone call."}
+{"cause": "I missed my girlfriend's phone call.", "effect": "I called her back."}
+{"cause": "Their dog ran away from home.", "effect": "The family searched the neighborhood."}
+{"cause": "The family searched the neighborhood.", "effect": "They found the missing child."}
+{"cause": "The weather was chilly.", "effect": "I saw my breath when I exhaled."}
+{"cause": "I saw my breath when I exhaled.", "effect": "I put on more clothes."}
+{"cause": "They wanted better working conditions.", "effect": "The employees formed a union."}
+{"cause": "The employees formed a union.", "effect": "They conducted a formal negotiation with the company."}
+{"cause": "I went hungry after work.", "effect": "I baked an apple pie."}
+{"cause": "I baked an apple pie.", "effect": "A warm aroma filled the kitchen."}
+{"cause": "She wore high heels.", "effect": "The woman struggled to walk."}
+{"cause": "The woman struggled to walk.", "effect": "She took hours to get home."}
+{"cause": "The water boiled.", "effect": "Steam rose off of the pot of water."}
+{"cause": "Steam rose off of the pot of water.", "effect": "My glasses became foggy."}
+{"cause": "I was too busy to wash them during the weekend.", "effect": "All my socks were in the laundry."}
+{"cause": "All my socks were in the laundry.", "effect": "I wore sandals."}
+{"cause": "He wanted to get extreme supporters.", "effect": "The politician's argument was considered absurd."}
+{"cause": "The politician's argument was considered absurd.", "effect": "He lost the support of voters."}
+{"cause": "They only knew each other for a month.", "effect": "Everyone disapproved of the couple's engagement."}
+{"cause": "Everyone disapproved of the couple's engagement.", "effect": "The couple eloped."}
+{"cause": "The millionaire contributed the funds to build it.", "effect": "The building was dedicated to the millionaire."}
+{"cause": "The building was dedicated to the millionaire.", "effect": "The building was named after him."}
+{"cause": "The sales associate saw the girl put merchandise in her purse.", "effect": "The sale associate accused the girl of stealing."}
+{"cause": "The sale associate accused the girl of stealing.", "effect": "The girl admitted her misconduct and apologized."}
+{"cause": "There was historical resentment between them.", "effect": "The country declared war on the neighboring territory."}
+{"cause": "The country declared war on the neighboring territory.", "effect": "Soldiers were sent out to fight."}
+{"cause": "It was based on a justified premise.", "effect": "The court upheld the controversial ruling."}
+{"cause": "The court upheld the controversial ruling.", "effect": "A riot broke loose in front of the courthouse."}
+{"cause": "She left the cookies in the oven.", "effect": "The girl smelled something burning."}
+{"cause": "The girl smelled something burning.", "effect": "She went to the kitchen to check out what happened."}
+{"cause": "The sky was covered with dark clouds.", "effect": "The rain was pouring down."}
+{"cause": "The rain was pouring down.", "effect": "I dashed to get inside."}
+{"cause": "The fire alarm went off.", "effect": "The building was evacuated."}
+{"cause": "The building was evacuated.", "effect": "There were no casualties."}
+{"cause": "He made troubles as soon as he was drunk.", "effect": "The father resented his son's alcoholism."}
+{"cause": "The father resented his son's alcoholism.", "effect": "The father kicked his son out of the house."}
+{"cause": "The elevator was out of order.", "effect": "The lawyer took the stairs up to her office."}
+{"cause": "The lawyer took the stairs up to her office.", "effect": "She sweated out on her forehead."}
+{"cause": "His friend interrupted him.", "effect": "The man became annoyed with his friend."}
+{"cause": "The man became annoyed with his friend.", "effect": "They started a quarrel."}
+{"cause": "She bought a bottle of water in the shop.", "effect": "The girl handed her money to the cashier."}
+{"cause": "The girl handed her money to the cashier.", "effect": "The cashier gave the girl her change."}
+{"cause": "She was paralyzed in an accident.", "effect": "The woman was put in a wheelchair."}
+{"cause": "The woman was put in a wheelchair.", "effect": "She went somewhere by herself."}
+{"cause": "The country was commemorating its independence.", "effect": "Citizens hung the national flag up outside their homes."}
+{"cause": "Citizens hung the national flag up outside their homes.", "effect": "Passerby felt passionately about what the flag represents."}
+{"cause": "They didn't play well.", "effect": "The team lost the tournament."}
+{"cause": "The team lost the tournament.", "effect": "They disappointed their fans."}
+{"cause": "I finished my lunch in a hurry.", "effect": "My friend pointed out that I had food stuck in my teeth."}
+{"cause": "My friend pointed out that I had food stuck in my teeth.", "effect": "I felt embarrassed."}
+{"cause": "He forgot to study.", "effect": "The boy failed his history exam."}
+{"cause": "The boy failed his history exam.", "effect": "He had to take the make-up exam."}
+{"cause": "An earthquake hit the city.", "effect": "The downtown building collapsed."}
+{"cause": "The downtown building collapsed.", "effect": "Many people were trapped."}
+{"cause": "He didn't care about his girlfriend.", "effect": "The man's girlfriend broke up with him."}
+{"cause": "The man's girlfriend broke up with him.", "effect": "He begged her to take him back."}
+{"cause": "They saw the ball at the same time.", "effect": "The two children simultaneously reached down to retrieve the ball."}
+{"cause": "The two children simultaneously reached down to retrieve the ball.", "effect": "Their heads collided."}
+{"cause": "The lid was off the garbage can.", "effect": "The raccoon ransacked the garbage can."}
+{"cause": "The raccoon ransacked the garbage can.", "effect": "The garbage can was in a mess."}
+{"cause": "It was dull.", "effect": "The boy sharpened the pencil."}
+{"cause": "The boy sharpened the pencil.", "effect": "He wrote a lot clearer."}
+{"cause": "She lost her receipt.", "effect": "The cashier denied the woman a refund for the dress."}
+{"cause": "The cashier denied the woman a refund for the dress.", "effect": "She argued with the cashier."}
+{"cause": "My cat hurt me hard with its claw.", "effect": "The scratch in my skin was deep."}
+{"cause": "The scratch in my skin was deep.", "effect": "It left a scar."}
+{"cause": "He was talking to himself.", "effect": "The man received strange looks from passengers on the train."}
+{"cause": "The man received strange looks from passengers on the train.", "effect": "He checked himself in the mirror."}
+{"cause": "He was eating bread while watching TV.", "effect": "The child left crumbs on the floor."}
+{"cause": "The child left crumbs on the floor.", "effect": "Ants crawled to the crumbs."}
+{"cause": "The woman's sister began to cry.", "effect": "The woman handed her sister a tissue."}
+{"cause": "The woman handed her sister a tissue.", "effect": "Her sister wiped the tears."}
+{"cause": "He worried about bad breath.", "effect": "The man took a mint."}
+{"cause": "The man took a mint.", "effect": "His mouth no longer stank."}
+{"cause": "They anticipated traffic around the theatre.", "effect": "The couple left early for the show."}
+{"cause": "The couple left early for the show.", "effect": "They arrived at the show early."}
+{"cause": "She was exhausted at work.", "effect": "The woman stayed home from work."}
+{"cause": "The woman stayed home from work.", "effect": "Her coworker covered for her."}
+{"cause": "He supported their cause.", "effect": "The man signed the activists' petition."}
+{"cause": "The man signed the activists' petition.", "effect": "He joined them as a volunteer."}
+{"cause": "He had stage fright.", "effect": "The actor's heart was fluttering before his performance."}
+{"cause": "The actor's heart was fluttering before his performance.", "effect": "He performed poorly on the stage."}
+{"cause": "I was alone in an unfamiliar city.", "effect": "I was lost."}
+{"cause": "I was lost.", "effect": "I unfolded a map."}
+{"cause": "We went on a picnic with fruits.", "effect": "The ripe fruit lingered in the sun."}
+{"cause": "The ripe fruit lingered in the sun.", "effect": "It shriveled up."}
+{"cause": "The engine overheated.", "effect": "The car broke down."}
+{"cause": "The car broke down.", "effect": "We called help to fix the car."}
+{"cause": "He fell down the stairs.", "effect": "The man hurt his back."}
+{"cause": "The man hurt his back.", "effect": "He stayed in bed for several days."}
+{"cause": "It was cold in the house.", "effect": "I started a fire in the fireplace."}
+{"cause": "I started a fire in the fireplace.", "effect": "The house became warmer."}
+{"cause": "She got a cramp in her side.", "effect": "The woman stopped jogging."}
+{"cause": "The woman stopped jogging.", "effect": "Her breath was relieved."}
+{"cause": "I ran to my neighbor for help.", "effect": "I knocked on my neighbor's door."}
+{"cause": "I knocked on my neighbor's door.", "effect": "My neighbor invited me in."}
+{"cause": "Her husband misunderstood her concerns.", "effect": "The woman sighed with frustration."}
+{"cause": "The woman sighed with frustration.", "effect": "Her friend comforted her."}
+{"cause": "The student answered the question correctly.", "effect": "The teacher commended the student."}
+{"cause": "The teacher commended the student.", "effect": "He was proud of himself."}
+{"cause": "She cooked eggs frequently.", "effect": "The woman ran out of eggs."}
+{"cause": "The woman ran out of eggs.", "effect": "She went to the supermarket."}
+{"cause": "I visited the neighborhood I lived before.", "effect": "I encountered an old friend."}
+{"cause": "I encountered an old friend.", "effect": "I gave him a hug."}
+{"cause": "It looked contaminated.", "effect": "The woman avoided going in the lake."}
+{"cause": "The woman avoided going in the lake.", "effect": "She didn't know that the lake had changed a lot."}
+{"cause": "His umbrella was broken.", "effect": "The student arrived to class soaking wet."}
+{"cause": "The student arrived to class soaking wet.", "effect": "His classmates looked at him curiously."}
+{"cause": "The user shifted the mouse.", "effect": "The cursor on the computer screen moved."}
+{"cause": "The cursor on the computer screen moved.", "effect": "The computer troubles were solved remotely."}
+{"cause": "An accident occurred on the main road.", "effect": "The driver took a detour."}
+{"cause": "The driver took a detour.", "effect": "It took longer time to get home."}
+{"cause": "The linen got wet.", "effect": "I hung the wet linen on the outdoor clothesline."}
+{"cause": "I hung the wet linen on the outdoor clothesline.", "effect": "The linen dried."}
+{"cause": "The sunlight was bright.", "effect": "The woman put on her shades."}
+{"cause": "The woman put on her shades.", "effect": "Her eyes were protected against ultraviolet rays."}
+{"cause": "He thought it was beautiful.", "effect": "The man gazed at the night sky."}
+{"cause": "The man gazed at the night sky.", "effect": "He was amazed by beautiful starry sight."}
+{"cause": "I ran for 30 kilometers yesterday.", "effect": "I felt exhausted."}
+{"cause": "I felt exhausted.", "effect": "I went to bed early."}
+{"cause": "His hair was getting long.", "effect": "The man went to the barber."}
+{"cause": "The man went to the barber.", "effect": "He got a new haircut."}
+{"cause": "The boy disliked the new classmate.", "effect": "The boy played mean tricks on his new classmate."}
+{"cause": "The boy played mean tricks on his new classmate.", "effect": "They fought each other."}
+{"cause": "I was eating cookies.", "effect": "I craved a glass of milk."}
+{"cause": "I craved a glass of milk.", "effect": "I opened the refrigerator and took out the milk."}
+{"cause": "The water droplets in clouds grew and became heavy.", "effect": "It began to rain."}
+{"cause": "It began to rain.", "effect": "The driver turned on the headlights."}
+{"cause": "The government announced the tearing down of the building.", "effect": "The parking lot of the building was empty."}
+{"cause": "The parking lot of the building was empty.", "effect": "I parked near the entrance."}
+{"cause": "She had writer's block.", "effect": "The writer missed her deadline for the draft submission."}
+{"cause": "The writer missed her deadline for the draft submission.", "effect": "The editor fired her."}
+{"cause": "I asked to speak to a supervisor.", "effect": "The associate hung up on me."}
+{"cause": "The associate hung up on me.", "effect": "I called again."}
+{"cause": "I left the window open.", "effect": "The wind blew through the open window."}
+{"cause": "The wind blew through the open window.", "effect": "The curtains shuddered."}
+{"cause": "I blew a fuse.", "effect": "The electricity in my house shut off."}
+{"cause": "The electricity in my house shut off.", "effect": "I reset the circuit breaker."}
+{"cause": "He lifted the bar over his head.", "effect": "The weightlifter grunted."}
+{"cause": "The weightlifter grunted.", "effect": "He finished the lift with a great effort."}
+{"cause": "No draft paper was given.", "effect": "The student tried to do the math in his head."}
+{"cause": "The student tried to do the math in his head.", "effect": "He got confused."}
+{"cause": "The father gently rocked the baby.", "effect": "The baby fell asleep."}
+{"cause": "The baby fell asleep.", "effect": "His mother breathed a sigh of relief."}
+{"cause": "They started playing water ballon game.", "effect": "The girl threw the water balloon at the boy."}
+{"cause": "The girl threw the water balloon at the boy.", "effect": "The boy got soaked."}
+{"cause": "He took a quick shot in a hurry.", "effect": "The photographer forgot to use the flash on the camera."}
+{"cause": "The photographer forgot to use the flash on the camera.", "effect": "The photos turned out blurry."}
+{"cause": "I was out of town.", "effect": "I declined the invitation to the birthday party."}
+{"cause": "I declined the invitation to the birthday party.", "effect": "I missed a great party."}
+{"cause": "I felt energetic.", "effect": "I exercised."}
+{"cause": "I exercised.", "effect": "I sweated."}
+{"cause": "I started cleaning the kitchen.", "effect": "I squeezed the damp sponge."}
+{"cause": "I squeezed the damp sponge.", "effect": "Water seeped out of it."}
+{"cause": "The resort was on an island.", "effect": "The vacationers took a ferry to the resort."}
+{"cause": "The vacationers took a ferry to the resort.", "effect": "They were charged 10 dollars each."}
+{"cause": "She wanted to rebel.", "effect": "The teenager got a tattoo."}
+{"cause": "The teenager got a tattoo.", "effect": "His parents were angry at him."}
+{"cause": "My neighbor bought a new car.", "effect": "An unfamiliar car parked outside my house."}
+{"cause": "An unfamiliar car parked outside my house.", "effect": "I became suspicious."}
+{"cause": "The evidence implicated him.", "effect": "The criminal turned himself in."}
+{"cause": "The criminal turned himself in.", "effect": "He received commutation of sentence."}
+{"cause": "He had heart troubles because of obesity.", "effect": "The heavyset man decided to lose weight."}
+{"cause": "The heavyset man decided to lose weight.", "effect": "He cut out sweets."}
+{"cause": "She wanted to cross the iced river.", "effect": "The girl stepped on the ice."}
+{"cause": "The girl stepped on the ice.", "effect": "She slid."}
+{"cause": "She stayed up all night.", "effect": "The woman had rings under her eyes."}
+{"cause": "The woman had rings under her eyes.", "effect": "She covered dark circles with makeup."}
+{"cause": "The volcano erupted.", "effect": "Lava flowed from the volcano."}
+{"cause": "Lava flowed from the volcano.", "effect": "The temperature went higher."}
+{"cause": "She wanted to leave the party.", "effect": "The woman put her shoes on."}
+{"cause": "The woman put her shoes on.", "effect": "Her feet got warmer."}
+{"cause": "I parked in the parking lot.", "effect": "I paid the tollbooth attendant."}
+{"cause": "I paid the tollbooth attendant.", "effect": "She let me pass through the tollbooth."}
+{"cause": "He squandered his fortune.", "effect": "The executive went bankrupt."}
+{"cause": "The executive went bankrupt.", "effect": "His house was auctioned."}
+{"cause": "The man felt ill.", "effect": "The man went to the doctor."}
+{"cause": "The man went to the doctor.", "effect": "He was prescribed some medicine."}
+{"cause": "The house was on fire.", "effect": "I exited my bedroom through the window."}
+{"cause": "I exited my bedroom through the window.", "effect": "I was mistaken as a thief."}
+{"cause": "He took a long shower.", "effect": "The boy's fingers became pruny."}
+{"cause": "The boy's fingers became pruny.", "effect": "He was in a good mood."}
+{"cause": "The milk tasted sour.", "effect": "I spit out the milk."}
+{"cause": "I spit out the milk.", "effect": "I threw away the rotten milk."}
+{"cause": "I overslept.", "effect": "I missed the bus."}
+{"cause": "I missed the bus.", "effect": "I was late to work."}
+{"cause": "The road was slippery.", "effect": "The truck collided with the car."}
+{"cause": "The truck collided with the car.", "effect": "The car got smashed."}
+{"cause": "They bribed the referee.", "effect": "The team rigged the contest in their favor."}
+{"cause": "The team rigged the contest in their favor.", "effect": "They won."}
+{"cause": "I twisted off the cap.", "effect": "The soda bottle hissed."}
+{"cause": "The soda bottle hissed.", "effect": "The dissolved gas slowly bubbles out of it."}
+{"cause": "He lost his keys.", "effect": "The boy was locked out of his house."}
+{"cause": "The boy was locked out of his house.", "effect": "He crawled in through an open window."}
+{"cause": "A stranger visited the house.", "effect": "The doorbell rang."}
+{"cause": "The doorbell rang.", "effect": "The woman peered through the keyhole in the door."}
+{"cause": "He knocked over his cup of coffee.", "effect": "The man stained his suit."}
+{"cause": "The man stained his suit.", "effect": "He got it dry-cleaned."}
+{"cause": "He went into the bathroom to brush his teeth.", "effect": "The girl squeezed the tube of toothpaste."}
+{"cause": "The girl squeezed the tube of toothpaste.", "effect": "The toothpaste squirted out of the tube."}
+{"cause": "Troops indiscriminately massacred the defenceless population.", "effect": "Civilian deaths from the war surged."}
+{"cause": "Civilian deaths from the war surged.", "effect": "Pacifists staged a protest."}
+{"cause": "The ribbon looked babyish.", "effect": "The girl yanked the ribbon out of her hair."}
+{"cause": "The girl yanked the ribbon out of her hair.", "effect": "Her hair whipped in the wind."}
+{"cause": "He was not satisfied with his appearance.", "effect": "The man got plastic surgery."}
+{"cause": "The man got plastic surgery.", "effect": "He looked younger."}
+{"cause": "The egg hatched.", "effect": "A baby chicken emerged from the egg."}
+{"cause": "A baby chicken emerged from the egg.", "effect": "It tried to walk slowly."}
+{"cause": "They tortured him to get information.", "effect": "The prisoner starved."}
+{"cause": "The prisoner starved.", "effect": "He died."}
+{"cause": "The ladder wobbled.", "effect": "The man lost his balance on the ladder."}
+{"cause": "The man lost his balance on the ladder.", "effect": "He fell off the ladder."}
+{"cause": "He took a swig of soda.", "effect": "The child burped."}
+{"cause": "The child burped.", "effect": "His mother fed him on water."}
+{"cause": "I opened the window.", "effect": "A cold draft came in through the window."}
+{"cause": "A cold draft came in through the window.", "effect": "I shivered."}
+{"cause": "She made good grades.", "effect": "The student received a scholarship to go to college."}
+{"cause": "The student received a scholarship to go to college.", "effect": "He successfully completed his college education."}
+{"cause": "She had a crush on him.", "effect": "The girl poked fun at the boy."}
+{"cause": "The girl poked fun at the boy.", "effect": "He flashed a smile shyly."}
+{"cause": "He had no money.", "effect": "The hungry vagrant stole food."}
+{"cause": "The hungry vagrant stole food.", "effect": "People pretended not to see that."}
+{"cause": "I felt lonely.", "effect": "I called my friend to chat."}
+{"cause": "I called my friend to chat.", "effect": "He suspended the work at hand."}
+{"cause": "I fell to the ground.", "effect": "The man extended his hand to me."}
+{"cause": "The man extended his hand to me.", "effect": "I shook his hand."}
+{"cause": "The frisbee soared towards my head.", "effect": "I ducked."}
+{"cause": "I ducked.", "effect": "The bicycle hit the wall."}
+{"cause": "She was worried.", "effect": "The girl bit her nails."}
+{"cause": "The girl bit her nails.", "effect": "The nails were ugly."}
+{"cause": "It was the beginning of a new month.", "effect": "I turned the page on the calendar."}
+{"cause": "I turned the page on the calendar.", "effect": "I marked important dates in the new month."}
+{"cause": "His wife returned home late recently.", "effect": "The husband discovered that his wife was having an affair."}
+{"cause": "The husband discovered that his wife was having an affair.", "effect": "He filed for divorce."}
+{"cause": "Her hands were occupied.", "effect": "The girl dropped the rubber ball."}
+{"cause": "The girl dropped the rubber ball.", "effect": "The ball bounced."}
+{"cause": "She didn't sleep well last night.", "effect": "The girl made a mistake on her exam."}
+{"cause": "The girl made a mistake on her exam.", "effect": "She erased her answer."}
+{"cause": "The adversary gained ground towards goal.", "effect": "The player tackled his opponent."}
+{"cause": "The player tackled his opponent.", "effect": "His opponent hit the ground."}
+{"cause": "They were ripe.", "effect": "I picked the tomatoes from the vine."}
+{"cause": "I picked the tomatoes from the vine.", "effect": "We cooked them for dinner."}
+{"cause": "It was Valentine's day.", "effect": "The man wanted to act romantic."}
+{"cause": "The man wanted to act romantic.", "effect": "He bought his girlfriend chocolates."}
+{"cause": "The weather got warmer.", "effect": "The mercury in the thermometer rose."}
+{"cause": "The mercury in the thermometer rose.", "effect": "I realized I had a fever."}
+{"cause": "Warm humid air collided with cold dry air.", "effect": "A tornado came through the town."}
+{"cause": "A tornado came through the town.", "effect": "The roof of the courthouse blew off."}
+{"cause": "He failed his midterm exam.", "effect": "The student received tutoring."}
+{"cause": "The student received tutoring.", "effect": "His grades improved."}
+{"cause": "I wrapped myself in a blanket.", "effect": "I felt comfortable."}
+{"cause": "I felt comfortable.", "effect": "I fell asleep soon."}
+{"cause": "I planned to send my mother a handmade present.", "effect": "I polished the stone."}
+{"cause": "I polished the stone.", "effect": "It became shiny."}
+{"cause": "The coffee was too bitter.", "effect": "I added sugar to the coffee."}
+{"cause": "I added sugar to the coffee.", "effect": "The coffee tasted sweet."}
+{"cause": "The meeting was about to begin soon.", "effect": "The man shuffled through the papers."}
+{"cause": "The man shuffled through the papers.", "effect": "He got a paper cut."}
+{"cause": "The nail was loose.", "effect": "I pounded the nail with the hammer."}
+{"cause": "I pounded the nail with the hammer.", "effect": "The nail sunk into the wood."}
+{"cause": "I put the earthworm on the hook.", "effect": "The fish bit the line."}
+{"cause": "The fish bit the line.", "effect": "The fisherman reeled in the fish."}
+{"cause": "She got a pimple.", "effect": "The teenager was embarrassed to go to school."}
+{"cause": "The teenager was embarrassed to go to school.", "effect": "He asked the teacher for leave."}
+{"cause": "I received good news.", "effect": "My facial expression lit up."}
+{"cause": "My facial expression lit up.", "effect": "I shared the good news with my friends."}
+{"cause": "My hands were wet.", "effect": "I wiped my hands with a towel."}
+{"cause": "I wiped my hands with a towel.", "effect": "My hands were dry."}
+{"cause": "The stool wobbled underneath him.", "effect": "The man lost his balance on the stool."}
+{"cause": "The man lost his balance on the stool.", "effect": "He fell off the chair."}
+{"cause": "They lost their game.", "effect": "The teammates directed blame at each other."}
+{"cause": "The teammates directed blame at each other.", "effect": "Everyone left in anger."}
+{"cause": "I regretted my mistake.", "effect": "I asked for forgiveness."}
+{"cause": "I asked for forgiveness.", "effect": "He forgave me generously."}
+{"cause": "He talked incessantly about himself.", "effect": "The woman became bored with her date."}
+{"cause": "The woman became bored with her date.", "effect": "She made an excuse to leave early."}
+{"cause": "She was photographed.", "effect": "The girl flashed a smile."}
+{"cause": "The girl flashed a smile.", "effect": "Her dimples showed."}
+{"cause": "It passed over the mine.", "effect": "The enemy ship blew up."}
+{"cause": "The enemy ship blew up.", "effect": "We won the war."}
+{"cause": "He stepped on broken glass.", "effect": "The man punctured his foot."}
+{"cause": "The man punctured his foot.", "effect": "He went to the clinic."}
+{"cause": "A murder happened in the neighborhood.", "effect": "The detectives dusted the crime scene for fingerprints."}
+{"cause": "The detectives dusted the crime scene for fingerprints.", "effect": "They discovered the identity of the murderer."}
+{"cause": "The roads were covered with ice and snow.", "effect": "There was a lot of traffic on the highway."}
+{"cause": "There was a lot of traffic on the highway.", "effect": "I took a detour."}
+{"cause": "A global financial crisis broke out.", "effect": "The nation's economy declined."}
+{"cause": "The nation's economy declined.", "effect": "Many people faced unemployment."}
+{"cause": "They were about to walk into oncoming traffic.", "effect": "The crossing guard blew her whistle at the children."}
+{"cause": "The crossing guard blew her whistle at the children.", "effect": "The children stopped to wait for the traffic to pass."}
+{"cause": "He made a sarcastic remark.", "effect": "I rolled my eyes at my friend."}
+{"cause": "I rolled my eyes at my friend.", "effect": "I offended him."}
+{"cause": "The car had a lot of mileage.", "effect": "The car ran out of gas."}
+{"cause": "The car ran out of gas.", "effect": "The driver was stranded on the road."}
+{"cause": "Her water broke.", "effect": "The woman went into labor."}
+{"cause": "The woman went into labor.", "effect": "The baby was delivered."}
+{"cause": "It was windy outside.", "effect": "The man's hat blew away."}
+{"cause": "The man's hat blew away.", "effect": "He ran to pick up his hat."}
+{"cause": "She received an invitation.", "effect": "The girl attended her classmate's birthday party."}
+{"cause": "The girl attended her classmate's birthday party.", "effect": "She went home late."}
+{"cause": "He was drenched with rain.", "effect": "The boy's forehead felt hot."}
+{"cause": "The boy's forehead felt hot.", "effect": "His mother took his temperature."}
+{"cause": "He wanted to impress his date.", "effect": "The man sprayed himself with cologne."}
+{"cause": "The man sprayed himself with cologne.", "effect": "His date had a good impression of him."}
+{"cause": "The fuse blew.", "effect": "The electricity in the house shut off."}
+{"cause": "The electricity in the house shut off.", "effect": "I looked for a flashlight."}
+{"cause": "The mother gave birth to twins.", "effect": "The family moved into a bigger house."}
+{"cause": "The family moved into a bigger house.", "effect": "They met some new neighbors."}
+{"cause": "She wanted to conserve her energy.", "effect": "The marathoner kept at a slow pace."}
+{"cause": "The marathoner kept at a slow pace.", "effect": "She sprinted the last few meters."}
+{"cause": "The bag of chips was stuck.", "effect": "The boy kicked the vending machine."}
+{"cause": "The boy kicked the vending machine.", "effect": "The machine was broken."}
+{"cause": "The dog became seriously ill.", "effect": "My friend's dog died."}
+{"cause": "My friend's dog died.", "effect": "I gave him a hug."}
+{"cause": "He went bankrupt.", "effect": "The businessman's credit card got declined."}
+{"cause": "The businessman's credit card got declined.", "effect": "He paid with cash."}
+{"cause": "He stubbed his toe.", "effect": "The man cursed."}
+{"cause": "The man cursed.", "effect": "I rolled my eyes at him."}
+{"cause": "His brother got accepted into law school.", "effect": "The man felt proud of his brother."}
+{"cause": "The man felt proud of his brother.", "effect": "He gave his brother a present."}
+{"cause": "She watched a documentary about astronomy.", "effect": "The girl wanted to learn about the solar system."}
+{"cause": "The girl wanted to learn about the solar system.", "effect": "She went to the library."}
+{"cause": "I put tape on the back of the poster.", "effect": "The poster stuck to the wall."}
+{"cause": "The poster stuck to the wall.", "effect": "The room was not simple with bare."}
+{"cause": "The architect introduced his plan persuasively.", "effect": "The client approved the architect's plans for the building."}
+{"cause": "The client approved the architect's plans for the building.", "effect": "The architect constructed the building."}
+{"cause": "His hand was shaking.", "effect": "The man dropped his spoon."}
+{"cause": "The man dropped his spoon.", "effect": "He called the waiter."}
+{"cause": "He prepared to switch jobs.", "effect": "The CEO of the company resigned."}
+{"cause": "The CEO of the company resigned.", "effect": "The board of directors found his replacement."}
+{"cause": "I overslept.", "effect": "I arrived late to the lecture."}
+{"cause": "I arrived late to the lecture.", "effect": "I took a seat in the back row."}
+{"cause": "His family paid his bail.", "effect": "The man was released from jail."}
+{"cause": "The man was released from jail.", "effect": "He didn't do anything illegal any more."}
+{"cause": "Their house caught fire.", "effect": "The family lost all their belongings."}
+{"cause": "The family lost all their belongings.", "effect": "They received donations from charities."}
+{"cause": "I finished my drinks.", "effect": "I stomped on the aluminum can."}
+{"cause": "I stomped on the aluminum can.", "effect": "The can got crushed."}
+{"cause": "She passed the debate team's interview.", "effect": "The girl joined the debate team."}
+{"cause": "The girl joined the debate team.", "effect": "She learned communication skills."}
+{"cause": "I listened to music.", "effect": "My mood improved."}
+{"cause": "My mood improved.", "effect": "I danced happily."}
+{"cause": "They wanted to help African children.", "effect": "The charity made a goal to raise money."}
+{"cause": "The charity made a goal to raise money.", "effect": "They held an auction."}
+{"cause": "The roller coaster reached its peak.", "effect": "The roller coaster plunged down the steep drop."}
+{"cause": "The roller coaster plunged down the steep drop.", "effect": "The passengers screamed."}
+{"cause": "My mother read my diary without my permission.", "effect": "I was furious."}
+{"cause": "I was furious.", "effect": "I slammed the door upon leaving the house."}
+{"cause": "He heard that the sunrise here was spectacular.", "effect": "The man wanted to watch the sunrise."}
+{"cause": "The man wanted to watch the sunrise.", "effect": "He got up early."}
+{"cause": "I finished reading the letter.", "effect": "I folded the paper."}
+{"cause": "I folded the paper.", "effect": "The paper creased."}
+{"cause": "The environmental pollution was serious.", "effect": "The nation endured a natural disaster."}
+{"cause": "The nation endured a natural disaster.", "effect": "Leaders of other countries sent emergency relief."}
+{"cause": "He fell into the pool.", "effect": "The boy's clothes got soaked."}
+{"cause": "The boy's clothes got soaked.", "effect": "The boy had a cold."}
+{"cause": "It was due to be returned to the library.", "effect": "The student rushed to finish the book."}
+{"cause": "The student rushed to finish the book.", "effect": "He didn't remember anything."}
+{"cause": "He was convicted of murder.", "effect": "The criminal was executed."}
+{"cause": "The criminal was executed.", "effect": "The victims' families felt relieved."}
+{"cause": "I opened the curtains.", "effect": "Sunlight entered the room."}
+{"cause": "Sunlight entered the room.", "effect": "The room became warmer."}
+{"cause": "He behaves strangely.", "effect": "I yanked the imposter's hair."}
+{"cause": "I yanked the imposter's hair.", "effect": "Her wig came off."}
+{"cause": "He deemed the sentence unclear.", "effect": "The editor reworded a sentence in the manuscript."}
+{"cause": "The editor reworded a sentence in the manuscript.", "effect": "That sentence was more fluent."}
+{"cause": "She realized the card was missing.", "effect": "The woman cancelled her credit card account."}
+{"cause": "The woman cancelled her credit card account.", "effect": "She monitored every expense."}
+{"cause": "They had a lot in common.", "effect": "The man and woman fell in love."}
+{"cause": "The man and woman fell in love.", "effect": "They got married."}
+{"cause": "The volume of the player was low.", "effect": "The music was too faint to hear."}
+{"cause": "The music was too faint to hear.", "effect": "I turned up the volume."}
+{"cause": "The girl ruffled it.", "effect": "The boy's hair was sticking up."}
+{"cause": "The boy's hair was sticking up.", "effect": "He was laughed by his friends."}
+{"cause": "I stepped on the bug.", "effect": "The bug got squashed."}
+{"cause": "The bug got squashed.", "effect": "It died."}
+{"cause": "I woke up.", "effect": "I opened my eyes."}
+{"cause": "I opened my eyes.", "effect": "I saw this beautiful world."}
+{"cause": "His hearing was poor.", "effect": "My neighbor's music was blaring."}
+{"cause": "My neighbor's music was blaring.", "effect": "I asked him to turn it down."}
+{"cause": "He earned below minimum wage.", "effect": "The man's family lived in poverty."}
+{"cause": "The man's family lived in poverty.", "effect": "He had to do two jobs."}
+{"cause": "He studied very hard.", "effect": "The student graduated from the university."}
+{"cause": "The student graduated from the university.", "effect": "He looked for a job."}
+{"cause": "He wanted green paint.", "effect": "The artist mixed yellow paint into blue paint."}
+{"cause": "The artist mixed yellow paint into blue paint.", "effect": "The paint turned green."}
+{"cause": "The conversation became tense.", "effect": "I changed the topic of conversation."}
+{"cause": "I changed the topic of conversation.", "effect": "We stopped arguing."}
+{"cause": "He recovered from his illness.", "effect": "My brother was released from the hospital."}
+{"cause": "My brother was released from the hospital.", "effect": "I welcomed him back home."}
+{"cause": "The show was about to begin.", "effect": "The curtain on the stage went up."}
+{"cause": "The curtain on the stage went up.", "effect": "The opening scene of the play began."}
+{"cause": "The kidnapper threatened to hurt the hostage.", "effect": "The hostage submitted to the kidnapper's mandates."}
+{"cause": "The hostage submitted to the kidnapper's mandates.", "effect": "He survived in the end."}
+{"cause": "The musician pounded the drum.", "effect": "A boom reverberated across the stage."}
+{"cause": "A boom reverberated across the stage.", "effect": "The audiences wondered what happened."}
+{"cause": "The child awoke screaming from a nightmare.", "effect": "The parents rushed to their child's bedroom."}
+{"cause": "The parents rushed to their child's bedroom.", "effect": "They found that the boy tumbled off the bed."}
+{"cause": "She was born deaf.", "effect": "The woman communicated with sign language."}
+{"cause": "The woman communicated with sign language.", "effect": "Others didn't understand."}
+{"cause": "Severe deforestation accelerated soil erosion.", "effect": "A drought occurred in the region."}
+{"cause": "A drought occurred in the region.", "effect": "The crops perished."}
+{"cause": "A bird landed on the ground.", "effect": "The cat chased the bird."}
+{"cause": "The cat chased the bird.", "effect": "The bird flew away."}
+{"cause": "She moved to a new town.", "effect": "The girl switched schools."}
+{"cause": "The girl switched schools.", "effect": "She lost her old friend."}
+{"cause": "The profits of the factory were poor.", "effect": "The factory owner refused to raise employees' wages."}
+{"cause": "The factory owner refused to raise employees' wages.", "effect": "The employees went on strike."}
+{"cause": "The extremists disrupted people's life.", "effect": "The leader antagonized the extremists among his country."}
+{"cause": "The leader antagonized the extremists among his country.", "effect": "The extremists assassinated him."}
+{"cause": "I went to the seaside on vocation.", "effect": "I walked barefoot on the beach."}
+{"cause": "I walked barefoot on the beach.", "effect": "Sand stuck to my feet."}
+{"cause": "The heating didn't work.", "effect": "I woke up in the middle of the night feeling cold."}
+{"cause": "I woke up in the middle of the night feeling cold.", "effect": "I put sweatpants on."}
+{"cause": "Her son whined.", "effect": "The mother hushed her son."}
+{"cause": "The mother hushed her son.", "effect": "The boy stopped crying."}
+{"cause": "I tripped on the pavement.", "effect": "A hole ripped in my jeans."}
+{"cause": "A hole ripped in my jeans.", "effect": "I decided to throw it away."}
+{"cause": "He had crooked teeth.", "effect": "The boy wore braces."}
+{"cause": "The boy wore braces.", "effect": "His teeth became straight."}
+{"cause": "I intended to lose weight.", "effect": "I worked out at the gym yesterday."}
+{"cause": "I worked out at the gym yesterday.", "effect": "I woke up today with sore muscles."}
+{"cause": "They wanted to gossip about their classmates.", "effect": "The girl whispered back and forth to each other at the lunch table."}
+{"cause": "The girl whispered back and forth to each other at the lunch table.", "effect": "Other students at the lunch table felt left out."}
+{"cause": "He planned to play trampoline.", "effect": "The child landed on the trampoline."}
+{"cause": "The child landed on the trampoline.", "effect": "She sprung back up into the air."}
+{"cause": "I wrote a letter to my friends.", "effect": "I deposited the letter in the mailbox."}
+{"cause": "I deposited the letter in the mailbox.", "effect": "The post office delivered the letter."}
+{"cause": "He won one thousand dollars last time.", "effect": "The gambler was confident."}
+{"cause": "The gambler was confident.", "effect": "He bet all of his money."}
+{"cause": "The winds became stronger.", "effect": "The forest fire spread."}
+{"cause": "The forest fire spread.", "effect": "All trees were destroyed."}
+{"cause": "He slipped on the stairs.", "effect": "The child skinned his knee."}
+{"cause": "The child skinned his knee.", "effect": "His mother put a bandage on the wound."}
+{"cause": "He received an organ transplant.", "effect": "The man survived the deadly illness."}
+{"cause": "The man survived the deadly illness.", "effect": "His family rejoiced at this situation."}
+{"cause": "I was in a hurry.", "effect": "I took a sip of the scalding coffee."}
+{"cause": "I took a sip of the scalding coffee.", "effect": "I burnt my tongue."}
+{"cause": "The writer missed an important deadline.", "effect": "The editor fired the writer."}
+{"cause": "The editor fired the writer.", "effect": "He hired a new writer."}
+{"cause": "I studied all day.", "effect": "I felt exhausted."}
+{"cause": "I felt exhausted.", "effect": "I drank a cup of coffee."}
+{"cause": "She identified the patient's symptoms.", "effect": "The physician diagnosed the patient."}
+{"cause": "The physician diagnosed the patient.", "effect": "The patient inquired about the treatment plan."}
+{"cause": "It felt itchy.", "effect": "I scratched my skin."}
+{"cause": "I scratched my skin.", "effect": "The skin was bleeding."}
+{"cause": "He suffered a heart attack.", "effect": "The man underwent emergency surgery."}
+{"cause": "The man underwent emergency surgery.", "effect": "He survived."}
+{"cause": "He flexed his arms.", "effect": "The man's arm muscles bulged."}
+{"cause": "The man's arm muscles bulged.", "effect": "People were amazed by his figure."}
+{"cause": "He was surprised.", "effect": "The man raised his eyebrows."}
+{"cause": "The man raised his eyebrows.", "effect": "I got his strong hint."}
+{"cause": "I believed his intentions were good.", "effect": "I excused my colleague's blunder."}
+{"cause": "I excused my colleague's blunder.", "effect": "He felt grateful to me."}
+{"cause": "He was diagnosed lung cancer.", "effect": "The man quit smoking."}
+{"cause": "The man quit smoking.", "effect": "He began exercising more."}
+{"cause": "She was attacked from the front.", "effect": "The woman punched her attacker in the nose."}
+{"cause": "The woman punched her attacker in the nose.", "effect": "The attacker started to bleed."}
+{"cause": "The man's aim was off.", "effect": "The dart missed the bull's eye."}
+{"cause": "The dart missed the bull's eye.", "effect": "He failed to get a full mark."}
+{"cause": "He discovered rats in the basement.", "effect": "The homeowner requested that an exterminator come to his house."}
+{"cause": "The homeowner requested that an exterminator come to his house.", "effect": "The pests were wiped out."}
+{"cause": "I was too tired to prepare anything.", "effect": "I suggested to my houseguest that we go out to dinner."}
+{"cause": "I suggested to my houseguest that we go out to dinner.", "effect": "We had a good meal and went to the cinema."}
+{"cause": "She forgot to lock up her diary.", "effect": "The girl caught her brother reading her diary."}
+{"cause": "The girl caught her brother reading her diary.", "effect": "She started hiding the diary."}
+{"cause": "She lost her job.", "effect": "The woman was short on money for rent."}
+{"cause": "The woman was short on money for rent.", "effect": "She worked overtime."}
+{"cause": "He touched the hot stove.", "effect": "The child's hand quickly recoiled."}
+{"cause": "The child's hand quickly recoiled.", "effect": "He didn't get burned."}
+{"cause": "A new product was launched.", "effect": "The company wanted to gauge customer satisfaction."}
+{"cause": "The company wanted to gauge customer satisfaction.", "effect": "They distributed a survey to customers."}
+{"cause": "The boy dragged a chair across the floor.", "effect": "The wood floor became scratched."}
+{"cause": "The wood floor became scratched.", "effect": "The landlord demanded compensation."}
+{"cause": "My enemy cocked a fist.", "effect": "I shielded my face."}
+{"cause": "I shielded my face.", "effect": "Colleagues looked at me curiously."}
+{"cause": "It was struck by lightning.", "effect": "The famous statue burned down."}
+{"cause": "The famous statue burned down.", "effect": "They rebuild a same statue."}
+{"cause": "The refrigerator was full.", "effect": "I left the fruit out on the table."}
+{"cause": "I left the fruit out on the table.", "effect": "Flies swarmed the fruit."}
+{"cause": "She twisted her ankle.", "effect": "The ballerina tore a ligament."}
+{"cause": "The ballerina tore a ligament.", "effect": "She canceled all the performance."}
+{"cause": "He ran around on the playground.", "effect": "The child's shoelaces came untied."}
+{"cause": "The child's shoelaces came untied.", "effect": "He stumbled and cried."}
+{"cause": "The story was very fascinating.", "effect": "I became enthralled in the book."}
+{"cause": "I became enthralled in the book.", "effect": "I lost track of time."}
+{"cause": "His parents influenced him.", "effect": "The man held similar beliefs to those of his parents."}
+{"cause": "The man held similar beliefs to those of his parents.", "effect": "They went to church together."}
+{"cause": "It ran out of gas.", "effect": "The car gradually slowed to a stop."}
+{"cause": "The car gradually slowed to a stop.", "effect": "The driver got off to buy food."}
+{"cause": "The weather was so hot.", "effect": "The man ate the ice cream in the sun."}
+{"cause": "The man ate the ice cream in the sun.", "effect": "The ice cream dripped from the cone."}
+{"cause": "The walls looked bare.", "effect": "I hung artwork in the room."}
+{"cause": "I hung artwork in the room.", "effect": "The room became stylish."}
+{"cause": "I had a headache.", "effect": "I left work early."}
+{"cause": "I left work early.", "effect": "I got a dressing-down from the boss."}
+{"cause": "The dog just came back from outside.", "effect": "The puppy soiled the carpet."}
+{"cause": "The puppy soiled the carpet.", "effect": "The owner scolded the puppy."}
+{"cause": "My lies hurt him.", "effect": "I apologized to my friend."}
+{"cause": "I apologized to my friend.", "effect": "My friend forgave me."}
+{"cause": "He wore a neon vest.", "effect": "The man stood out in the crowd."}
+{"cause": "The man stood out in the crowd.", "effect": "His friends saw him easily."}
+{"cause": "He was bribed.", "effect": "The witness lied under oath."}
+{"cause": "The witness lied under oath.", "effect": "He was charged with perjury."}
+{"cause": "She wanted a new look.", "effect": "The woman dyed her hair."}
+{"cause": "The woman dyed her hair.", "effect": "She looked younger after that."}
+{"cause": "Their residence permits expired.", "effect": "The immigrants were caught illegally residing in the country."}
+{"cause": "The immigrants were caught illegally residing in the country.", "effect": "They were deported."}
+{"cause": "He wanted to make a good impression to the public.", "effect": "The public speaker cracked a joke."}
+{"cause": "The public speaker cracked a joke.", "effect": "The audience laughed."}
+{"cause": "There was a solar eclipse.", "effect": "I looked into the sun."}
+{"cause": "I looked into the sun.", "effect": "The sun blinded me."}
+{"cause": "The story was tediously long.", "effect": "I felt bored."}
+{"cause": "I felt bored.", "effect": "I yawned."}
+{"cause": "The knife was dull.", "effect": "The steak was difficult to cut."}
+{"cause": "The steak was difficult to cut.", "effect": "I got another sharp knife."}
+{"cause": "She acquired massive debt.", "effect": "The woman declared bankruptcy."}
+{"cause": "The woman declared bankruptcy.", "effect": "Her house was auctioned."}
+{"cause": "He prepared for final exam all night.", "effect": "The lights in my friend's apartment were on."}
+{"cause": "The lights in my friend's apartment were on.", "effect": "I decided to pay him a visit."}
+{"cause": "The photographer asked me to change my pose.", "effect": "I put the flower under my nose."}
+{"cause": "I put the flower under my nose.", "effect": "I picked up the flower's scent."}
+{"cause": "She ran into a childhood friend.", "effect": "The woman felt nostalgic."}
+{"cause": "The woman felt nostalgic.", "effect": "She thought of an old friend."}
+{"cause": "He had a good time on holiday.", "effect": "The student procrastinated on the paper."}
+{"cause": "The student procrastinated on the paper.", "effect": "He submitted the paper incomplete."}
+{"cause": "The tyres were punctured.", "effect": "My car broke down."}
+{"cause": "My car broke down.", "effect": "I called a mechanic."}
+{"cause": "It was illegible.", "effect": "I discarded the note."}
+{"cause": "I discarded the note.", "effect": "The boss criticized me."}
+{"cause": "The children chased it.", "effect": "The bird flapped its wings."}
+{"cause": "The bird flapped its wings.", "effect": "It ascended upwards."}
+{"cause": "The garage was full.", "effect": "I parked in the driveway."}
+{"cause": "I parked in the driveway.", "effect": "The traffic police posted a fine ticket."}
+{"cause": "The police moved in.", "effect": "The criminal aimed the gun at his victim."}
+{"cause": "The criminal aimed the gun at his victim.", "effect": "The victim put his hands up."}
+{"cause": "I planned to attend my friend's wedding.", "effect": "I looked forward to the weekend."}
+{"cause": "I looked forward to the weekend.", "effect": "I couldn't concentrate on my work."}
+{"cause": "I was daydreaming.", "effect": "I lost track of time."}
+{"cause": "I lost track of time.", "effect": "I missed the seminar."}
+{"cause": "The printer was low on ink.", "effect": "The document printed out illegibly."}
+{"cause": "The document printed out illegibly.", "effect": "They printed it again."}
+{"cause": "The opening ceremony of the sports meeting began.", "effect": "The stadium played the national anthem."}
+{"cause": "The stadium played the national anthem.", "effect": "The fans turned to the flag."}
+{"cause": "I forgot to add salt.", "effect": "The dip tasted bland."}
+{"cause": "The dip tasted bland.", "effect": "I put salt in it."}
+{"cause": "The glass of water was knocked over.", "effect": "I set the paper towel on the spill."}
+{"cause": "I set the paper towel on the spill.", "effect": "The towel absorbed the liquid."}
+{"cause": "The phone was ringing.", "effect": "The woman was interrupted in the midst of reading her book."}
+{"cause": "The woman was interrupted in the midst of reading her book.", "effect": "She bookmarked her page."}
+{"cause": "The plane approached the mountain.", "effect": "The plane hit some turbulence."}
+{"cause": "The plane hit some turbulence.", "effect": "The man tightened his seatbelt."}
+{"cause": "The girl poked him.", "effect": "The boy flinched."}
+{"cause": "The boy flinched.", "effect": "He turned and ran away"}
+{"cause": "They amputated her leg.", "effect": "The doctors gave the patient an artificial limb."}
+{"cause": "The doctors gave the patient an artificial limb.", "effect": "He was able to stand up."}
+{"cause": "He wanted to attract her attention.", "effect": "The boy pinched the girl's elbow."}
+{"cause": "The boy pinched the girl's elbow.", "effect": "She jerked her arm away from him."}
+{"cause": "I valued his opinion.", "effect": "I asked my friend for advice."}
+{"cause": "I asked my friend for advice.", "effect": "I found great illumination in his remark."}
+{"cause": "It was dark outside.", "effect": "The boy stepped in mud."}
+{"cause": "The boy stepped in mud.", "effect": "The mud stuck to his shoes."}
+{"cause": "It snowed all night.", "effect": "The town received several inches of snow."}
+{"cause": "The town received several inches of snow.", "effect": "Schools shut down."}
+{"cause": "He finished his work.", "effect": "The employee's shift ended."}
+{"cause": "The employee's shift ended.", "effect": "He went home for the day."}
+{"cause": "The tree fell onto the roof.", "effect": "The tree damaged the house."}
+{"cause": "The tree damaged the house.", "effect": "They removed the tree."}
+{"cause": "I swung the axe down to the wood.", "effect": "The wood split in half."}
+{"cause": "The wood split in half.", "effect": "It burnt more easily."}
+{"cause": "The couple announced that they were having a baby.", "effect": "The family congratulated the couple."}
+{"cause": "The family congratulated the couple.", "effect": "They responded with smiles and thanks."}
+{"cause": "She liked him.", "effect": "The girl sent the boy a valentine."}
+{"cause": "The girl sent the boy a valentine.", "effect": "He opened the gift expectantly."}
+{"cause": "I agreed with him.", "effect": "I nodded my head at my friend's statement."}
+{"cause": "I nodded my head at my friend's statement.", "effect": "He smiled back at me."}
+{"cause": "They wanted to make a fair decision.", "effect": "The friends flipped a coin."}
+{"cause": "The friends flipped a coin.", "effect": "The made a decision easily."}
+{"cause": "I set a timer for 60 minutes to roast chicken.", "effect": "The timer in the kitchen went off."}
+{"cause": "The timer in the kitchen went off.", "effect": "The man took the pizza out of the oven."}
+{"cause": "A new year came around.", "effect": "The woman set an ambitious goal."}
+{"cause": "The woman set an ambitious goal.", "effect": "She worked hard."}
+{"cause": "He suffered from cancer.", "effect": "The wealthy man died of old age."}
+{"cause": "The wealthy man died of old age.", "effect": "His son inherited his fortune."}
+{"cause": "She tried to make her performance more exciting.", "effect": "The woman stomped on the flames."}
+{"cause": "The woman stomped on the flames.", "effect": "The flames went out."}
+{"cause": "She got in a car accident.", "effect": "The woman's car was in the shop."}
+{"cause": "The woman's car was in the shop.", "effect": "She got her car repaired."}
+{"cause": "I stayed up late.", "effect": "I slept through my alarm."}
+{"cause": "I slept through my alarm.", "effect": "I missed breakfast."}
+{"cause": "It was time for the star to film.", "effect": "The public figure got out of the limousine."}
+{"cause": "The public figure got out of the limousine.", "effect": "Cameras flashed in his direction."}
+{"cause": "She was exhausted.", "effect": "The woman lingered in the bathtub."}
+{"cause": "The woman lingered in the bathtub.", "effect": "The bathwater became lukewarm."}
+{"cause": "He was so lonely.", "effect": "The college student wanted to meet other students on campus."}
+{"cause": "The college student wanted to meet other students on campus.", "effect": "He joined a fraternity."}
+{"cause": "I was looking for loose change.", "effect": "I lifted up the couch cushions."}
+{"cause": "I lifted up the couch cushions.", "effect": "I found my lost key."}
+{"cause": "He poked the beehive.", "effect": "The wasp flew towards the boy."}
+{"cause": "The wasp flew towards the boy.", "effect": "The boy ran away."}
+{"cause": "She stole a purse.", "effect": "The woman was found guilty of a misdemeanor."}
+{"cause": "The woman was found guilty of a misdemeanor.", "effect": "She was sentenced to perform community service."}
+{"cause": "It was bitter.", "effect": "I stirred the sugar into the hot tea."}
+{"cause": "I stirred the sugar into the hot tea.", "effect": "The sugar dissolved."}
+{"cause": "He was injured in battle.", "effect": "The veteran walked with a limp."}
+{"cause": "The veteran walked with a limp.", "effect": "Children laughed at him."}
+{"cause": "He had helpers there.", "effect": "The criminal ran away from the police."}
+{"cause": "The criminal ran away from the police.", "effect": "The police chased the criminal."}
+{"cause": "I dropped it.", "effect": "The laptop wouldn't turn on."}
+{"cause": "The laptop wouldn't turn on.", "effect": "I sent the computer out for repairs."}
+{"cause": "She acquired an extensive wardrobe.", "effect": "The woman ran out of room in her closet."}
+{"cause": "The woman ran out of room in her closet.", "effect": "She cleared out the unused stuff."}
+{"cause": "His wife left him.", "effect": "The man was heartbroken."}
+{"cause": "The man was heartbroken.", "effect": "He cried loudly."}
+{"cause": "He studied hard and passed the graduation examination.", "effect": "The man obtained a degree."}
+{"cause": "The man obtained a degree.", "effect": "He became qualified for the job he wanted."}
+{"cause": "He spoke into the microphone.", "effect": "The man's voice projected clearly throughout the auditorium."}
+{"cause": "The man's voice projected clearly throughout the auditorium.", "effect": "Everyone heard him."}
+{"cause": "I wanted more good luck.", "effect": "I tossed a coin into the fountain of water."}
+{"cause": "I tossed a coin into the fountain of water.", "effect": "The coin sunk to the bottom."}
+{"cause": "He aimed at the target line.", "effect": "The player hit the ball toward the hole."}
+{"cause": "The player hit the ball toward the hole.", "effect": "The ball went in the hole."}
+{"cause": "We had never cleaned it.", "effect": "I breathed in the dust in the attic."}
+{"cause": "I breathed in the dust in the attic.", "effect": "I sneezed."}
+{"cause": "The customer used counterfeit money.", "effect": "The store cashier called security."}
+{"cause": "The store cashier called security.", "effect": "The security caught the thief."}
+{"cause": "The garbage made the kitchen smell bad.", "effect": "I took the garbage out."}
+{"cause": "I took the garbage out.", "effect": "The room became clean."}
+{"cause": "It was a holiday.", "effect": "The family went to the zoo."}
+{"cause": "The family went to the zoo.", "effect": "The children admired the animals."}
+{"cause": "His lungs were congested.", "effect": "The man's breathing was loud."}
+{"cause": "The man's breathing was loud.", "effect": "He sought an appointment with a healthcare professional."}
+{"cause": "My friend stood me up.", "effect": "I had an extra ticket for the concert."}
+{"cause": "I had an extra ticket for the concert.", "effect": "I asked my friend if he was interested in going."}
+{"cause": "It had been used for many years.", "effect": "The air conditioner in the house broke."}
+{"cause": "The air conditioner in the house broke.", "effect": "I opened the windows."}
+{"cause": "His backpack was heavy.", "effect": "The boy's back ached."}
+{"cause": "The boy's back ached.", "effect": "He put down the bag on his shoulder."}
+{"cause": "It was her birthday.", "effect": "I bought my mother a present."}
+{"cause": "I bought my mother a present.", "effect": "She opened the gift happily."}
+{"cause": "Squirrels dug up the bulbs.", "effect": "The daffodils in the garden were destroyed."}
+{"cause": "The daffodils in the garden were destroyed.", "effect": "They hung up a warning sign."}
+{"cause": "It was too dark there.", "effect": "I struck the match."}
+{"cause": "I struck the match.", "effect": "The match produced a flame."}
+{"cause": "They didn't want to debate in court.", "effect": "The disputing parties reached a settlement."}
+{"cause": "The disputing parties reached a settlement.", "effect": "They signed a settlement agreement."}
+{"cause": "Their parents died.", "effect": "The children were sent to an orphanage."}
+{"cause": "The children were sent to an orphanage.", "effect": "They felt lonely."}
+{"cause": "Two planets collided with each other.", "effect": "A meteorite landed in the ocean."}
+{"cause": "A meteorite landed in the ocean.", "effect": "A tsunami occurred."}
+{"cause": "He went on a trip in woods.", "effect": "The hiker encountered a poisonous snake."}
+{"cause": "The hiker encountered a poisonous snake.", "effect": "She panicked."}
+{"cause": "I turned the oven on.", "effect": "The oven became hot."}
+{"cause": "The oven became hot.", "effect": "The bread was heated."}
+{"cause": "I started to make lemon juice.", "effect": "I squeezed the lemon wedge."}
+{"cause": "I squeezed the lemon wedge.", "effect": "The lemon squirted."}
+{"cause": "They organized many sea explorations.", "effect": "The country discovered new land."}
+{"cause": "The country discovered new land.", "effect": "The country colonized the land."}
+{"cause": "I bumped into the cup by accident.", "effect": "The glass toppled off the table."}
+{"cause": "The glass toppled off the table.", "effect": "It shattered all over the floor."}
+{"cause": "The floor was uneven.", "effect": "The table wobbled."}
+{"cause": "The table wobbled.", "effect": "The water in the cup splashed out."}
+{"cause": "He asked the teacher to confirm it.", "effect": "The father caught his son lying."}
+{"cause": "The father caught his son lying.", "effect": "His son confessed the truth."}
+{"cause": "He didn't sleep well.", "effect": "The man's head throbbed with pain."}
+{"cause": "The man's head throbbed with pain.", "effect": "He took aspirin."}
+{"cause": "It was approaching the station.", "effect": "The train slowed down."}
+{"cause": "The train slowed down.", "effect": "It stopped at the platform."}
+{"cause": "He was diagnosed with depression.", "effect": "The man went through therapy."}
+{"cause": "The man went through therapy.", "effect": "He was getting better."}
+{"cause": "She choked on her food.", "effect": "The woman clutched her throat."}
+{"cause": "The woman clutched her throat.", "effect": "She felt suffocation."}
+{"cause": "She had a cold.", "effect": "The woman had a sore throat."}
+{"cause": "The woman had a sore throat.", "effect": "Her voice sounded raspy."}
+{"cause": "The dog was hungry.", "effect": "The dog eyed the juicy steak on the table."}
+{"cause": "The dog eyed the juicy steak on the table.", "effect": "It drooled."}
+{"cause": "She worked hard.", "effect": "The woman's business succeeded."}
+{"cause": "The woman's business succeeded.", "effect": "She became wealthy."}
+{"cause": "The bell rang.", "effect": "The students exited the classroom."}
+{"cause": "The students exited the classroom.", "effect": "It was empty."}

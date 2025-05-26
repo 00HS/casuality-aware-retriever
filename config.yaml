@@ -1,0 +1,16 @@
+dataset:
+  train_files:
+    - "../dataset/e_care/train.jsonl"
+    - "../dataset/bcopa_ce/train.jsonl"
+  
+  dev_file: 
+    - "../dataset/e_care/dev.jsonl"
+    - "../dataset/bcopa_ce/dev.jsonl"
+  
+  test_file: 
+    - "../dataset/e_care/test.jsonl"
+  
+  max_length: 256
+  batch_size: 64
+  
+
