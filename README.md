@@ -12,6 +12,12 @@ git clone https://github.com/00HS/casuality-aware-retrieval.git
 cd casuality-aware-retrieval
 ```
 
+### 3. Evaluate the model
+
+```bash run_eval.sh
+```
+
+
 
 ## Citation
 
