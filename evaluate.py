@@ -112,13 +112,6 @@ def main():
 
     cause_corpus, effect_corpus = causes, effects
 
-    #cause_wiki_xl = json.load(open('../dataset/e_care/cause_wiki_xl.json'))
-    #effect_wiki_xl = json.load(open('../dataset/e_care/effect_wiki_xl.json'))
-
-    #cause_red_xl = json.load(open('../dataset/redpajama/cause_red_xl.json'))
-    #effect_red_xl = json.load(open('../dataset/redpajama/effect_red_xl.json'))
-
-    # Load model
     if model_run_name == 'cawai_dpr':
         from model.cawai_dpr.model import Encoder, CausalEncoder
         tokenizer = BertTokenizer.from_pretrained(args.model_name)
@@ -138,13 +131,9 @@ def main():
     # Save corpus embeddings
     print("Encoding cause_corpora...")
     cause_corpus_index = save_chunked_embeddings_and_create_index(cause_corpus, model.cause_encoder, tokenizer, device, 64, 500000, f'{model_run_name}_cause_corpus', model_run_name)
-    #cause_wiki_xl_index = save_chunked_embeddings_and_create_index(cause_wiki_xl, model.cause_encoder, tokenizer, device, 64, 500000, f'{model_run_name}_cause_wiki_xl', model_run_name)
-    #cause_red_xl_index = save_chunked_embeddings_and_create_index(cause_red_xl, model.cause_encoder, tokenizer, device, 64, 500000, f'{model_run_name}_cause_red_xl', model_run_name)
 
     print("Encoding effect_corpora...")
     effect_corpus_index = save_chunked_embeddings_and_create_index(effect_corpus, model.effect_encoder, tokenizer, device, 64, 500000, f'{model_run_name}_effect_corpus', model_run_name)
-    #effect_wiki_xl_index = save_chunked_embeddings_and_create_index(effect_wiki_xl, model.effect_encoder, tokenizer, device, 64, 500000, f'{model_run_name}_effect_wiki_xl', model_run_name)
-    #effect_red_xl_index = save_chunked_embeddings_and_create_index(effect_red_xl, model.effect_encoder, tokenizer, device, 64, 500000, f'{model_run_name}_effect_red_xl', model_run_name)
 
     print("Encoding queries...")
     cause_query_embeddings = encode_texts_in_batches(causes, tokenizer, model.cause_encoder, device, 256, model_run_name)
@@ -152,11 +141,7 @@ def main():
 
     corpus_pairs = [
         (causes, cause_query_embeddings, effect_corpus, effect_corpus_index, effects, "results/e-care", "cause", "effect"),
-        #(causes, cause_query_embeddings, effect_wiki_xl, effect_wiki_xl_index, effects, "results/e-care_wiki_xl", "cause", "effect"),
-        #(causes, cause_query_embeddings, effect_red_xl, effect_red_xl_index, effects, "results/e-care_red_xl", "cause", "effect"),
         (effects, effect_query_embeddings, cause_corpus, cause_corpus_index, causes, "results/e-care", "effect", "cause"),
-        #(effects, effect_query_embeddings, cause_wiki_xl, cause_wiki_xl_index, causes, "results/e-care_wiki_xl", "effect", "cause"),
-        #(effects, effect_query_embeddings, cause_red_xl, cause_red_xl_index, causes, "results/e-care_red_xl", "effect", "cause"),
     ]
 
     for query_texts, query_embeddings, corpus_texts, corpus_index, correct_texts, folder_name, query_type, answer_type in corpus_pairs:
