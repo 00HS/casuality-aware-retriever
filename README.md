@@ -37,7 +37,6 @@ We are planning to support the following datasets and features:
 - [ ] **CausalQA**
 - [ ] **ScienceQA**
 - [ ] **GeneralQA**
-- [ ] **Checkpoint uploading**
 
 ## Citation
 
