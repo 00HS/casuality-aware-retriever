@@ -17,7 +17,7 @@ cd casuality-aware-retrieval
 ```
 
 ### 2. Train the model
-
+To train a model, select the appropriate command in `run_train.sh` by uncommenting it based on your desired model and task.
 ```bash 
 bash run_train.sh
 ```
