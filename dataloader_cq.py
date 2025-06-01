@@ -6,7 +6,7 @@ class CausalQA(Dataset):
     def __init__(self, data):
         self.data = data
         self.questions = [item['question'] for item in data]  
-        self.passages = [item['passage'] for item in data] 
+        self.passages = [item['passage_processed'] for item in data] 
 
     def __len__(self):
         return len(self.questions)

@@ -1,0 +1,22 @@
+dataset:
+  train_files:
+    - "../dataset/causalqa/hotpotqa_train.jsonl"
+    - "../dataset/causalqa/msmarco_train.jsonl"
+    - "../dataset/causalqa/naturalquestions_train.jsonl"
+    - "../dataset/causalqa/squad2_train.jsonl"
+  
+  dev_file: 
+    - "../dataset/causalqa/hotpotqa_val.jsonl"
+    - "../dataset/causalqa/msmarco_val.jsonl"
+    - "../dataset/causalqa/naturalquestions_val.jsonl"
+    - "../dataset/causalqa/squad2_val.jsonl"
+
+  test_file: 
+    - "../dataset/causalqa/hotpotqa_test.jsonl"
+    - "../dataset/causalqa/msmarco_test.jsonl"
+    - "../dataset/causalqa/naturalquestions_test.jsonl"
+    - "../dataset/causalqa/squad2_test.jsonl"
+
+  max_length: 256
+  batch_size: 64
+ 

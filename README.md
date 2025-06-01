@@ -33,8 +33,6 @@ bash run_eval.sh
 ## Roadmap
 
 We are planning to support the following datasets and features:
-
-- [ ] **CausalQA**
 - [ ] **ScienceQA**
 - [ ] **GeneralQA**
 
