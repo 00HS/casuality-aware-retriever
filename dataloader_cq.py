@@ -5,29 +5,29 @@ from torch.utils.data import Dataset, DataLoader
 class CausalQA(Dataset):
     def __init__(self, data):
         self.data = data
-        self.questions = [item['question'] for item in data]  
-        self.passages = [item['passage_processed'] for item in data] 
+        self.causes = [item['question'] for item in data]  
+        self.effects = [item['passage_processed'] for item in data] 
 
     def __len__(self):
-        return len(self.questions)
-    
+        return len(self.causes)
+
     def __getitem__(self, idx):
         return {
-            "question": self.questions[idx],
-            "passage": self.passages[idx]
+            "cause": self.causes[idx],
+            "effect": self.effects[idx]
         }
 
 def collate_fn(batch_size, batch):
     batch_data = {
-        "question": [],
-        "passage": []
+        "cause": [],
+        "effect": []
     }
 
     for item in batch:
-        batch_data["question"].append(item["question"])
-        batch_data["passage"].append(item["passage"])
+        batch_data["cause"].append(item["cause"])
+        batch_data["effect"].append(item["effect"])
 
-    if len(batch_data["question"]) == batch_size:
+    if len(batch_data["cause"]) == batch_size:
         return batch_data
     else:
         return None
