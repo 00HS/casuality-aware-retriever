@@ -30,12 +30,6 @@ If you'd like to use a checkpoint, please refer to our Hugging Face repository:
 bash run_eval.sh
 ```
 
-## Roadmap
-
-We are planning to support the following datasets and features:
-- [ ] **ScienceQA**
-- [ ] **GeneralQA**
-
 ## Citation
 
 If you use this work in your research, please cite:
