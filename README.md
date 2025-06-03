@@ -1,4 +1,4 @@
-# casuality-aware-retrieval
+# casuality-aware-retriever
 
 Official implementation of the paper:  
 **[Causal Retrieval with Semantic Consideration](https://arxiv.org/abs/2504.04700)** 
