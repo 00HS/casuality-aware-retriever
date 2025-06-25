@@ -12,8 +12,8 @@ Official implementation of the paper:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/00HS/casuality-aware-retrieval.git
-cd casuality-aware-retrieval
+git clone https://github.com/00HS/causality-aware-retrieval.git
+cd causality-aware-retrieval
 ```
 
 ### 2. Train the model
