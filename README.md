@@ -25,3 +25,5 @@ bash run_train.sh
 ```bash 
 bash run_eval.sh
 ```
+You can compute Hits@k and MRR scores from the saved retrieval results by running score.py after evaluation.
+
